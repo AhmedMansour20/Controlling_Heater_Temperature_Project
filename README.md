@@ -12,7 +12,7 @@
      * ADC module.
 	   * WDT module.
 	   * GPIO ports.
-   2- LCD(2*16).
+   2- LCD(2 x 16).
    3- Keypad(4*4).
    4- Temperature sensor (LM35).
    5- Two leds.
